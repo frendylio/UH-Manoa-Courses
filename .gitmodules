@@ -10,3 +10,6 @@
 [submodule "ICS 314 (Software Engineering I) [JS, HTML, CSS, REACT]"]
 	path = ICS 314 (Software Engineering I) [JS, HTML, CSS, REACT]
 	url = https://github.com/frendylio/ICS314
+[submodule "EE 205 (Object Oriented Programming) [C++]"]
+	path = EE 205 (Object Oriented Programming) [C++]
+	url = https://github.com/frendylio/EE205
