@@ -13,3 +13,6 @@
 [submodule "EE 205 (Object Oriented Programming) [C++]"]
 	path = EE 205 (Object Oriented Programming) [C++]
 	url = https://github.com/frendylio/EE205
+[submodule "ICS 332 (Operating Systems) [C]"]
+	path = ICS 332 (Operating Systems) [C]
+	url = https://github.com/frendylio/ICS332
