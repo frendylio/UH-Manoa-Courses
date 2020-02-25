@@ -16,3 +16,6 @@
 [submodule "ICS 332 (Operating Systems) [C]"]
 	path = ICS 332 (Operating Systems) [C]
 	url = https://github.com/frendylio/ICS332
+[submodule "EE 496 (Capstone Project - Machine Learning) [Python]"]
+	path = EE 496 (Capstone Project - Machine Learning) [Python]
+	url = https://github.com/frendylio/EE496
