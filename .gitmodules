@@ -1,3 +1,6 @@
 [submodule "EE 367 (Computer Data Struct & Algrthm) [C]"]
 	path = EE 367 (Computer Data Struct & Algrthm) [C]
 	url = https://github.com/frendylio/EE367
+[submodule " EE362 (Discrete Math for Engineers) [C & Python]"]
+	path = " EE362 (Discrete Math for Engineers) [C & Python]"
+	url = https://github.com/frendylio/EE362
