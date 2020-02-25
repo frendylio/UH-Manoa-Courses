@@ -19,3 +19,6 @@
 [submodule "EE 496 (Capstone Project - Machine Learning) [Python]"]
 	path = EE 496 (Capstone Project - Machine Learning) [Python]
 	url = https://github.com/frendylio/EE496
+[submodule "EE 445 (Machine Learning) [Python]"]
+	path = EE 445 (Machine Learning) [Python]
+	url = https://github.com/frendylio/EE445
