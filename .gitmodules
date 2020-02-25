@@ -7,3 +7,9 @@
 [submodule "EE 362 (Discrete Math for Engineers) [C & Python]"]
 	path = EE 362 (Discrete Math for Engineers) [C & Python]
 	url = https://github.com/frendylio/EE362
+[submodule "EE 361 (Digital Sys & Computer Design) (C, SystemVerilog and Legv8)"]
+	path = EE 361 (Digital Sys & Computer Design) (C, SystemVerilog and Legv8)
+	url = https://github.com/frendylio/EE361
+[submodule "EE 361 (Digital Sys & Computer Design) [C, SystemVerilog and Legv8]"]
+	path = EE 361 (Digital Sys & Computer Design) [C, SystemVerilog and Legv8]
+	url = https://github.com/frendylio/EE361
