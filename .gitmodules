@@ -22,3 +22,9 @@
 [submodule "EE 445 (Machine Learning) [Python]"]
 	path = EE 445 (Machine Learning) [Python]
 	url = https://github.com/frendylio/EE445
+[submodule "EE 607 (Advanced Network Algorithms) [C]"]
+	path = EE 607 (Advanced Network Algorithms) [C]
+	url = https://github.com/frendylio/EE607
+[submodule "EE 609 (Computer and Network Security) [C]"]
+	path = EE 609 (Computer and Network Security) [C]
+	url = https://github.com/frendylio/EE609
