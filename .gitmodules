@@ -28,3 +28,6 @@
 [submodule "EE 609 (Computer and Network Security) [C]"]
 	path = EE 609 (Computer and Network Security) [C]
 	url = https://github.com/frendylio/EE609
+[submodule "ICS 483 (Computer Vision) [Python]"]
+	path = ICS 483 (Computer Vision) [Python]
+	url = https://github.com/frendylio/ICS483
