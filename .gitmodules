@@ -31,3 +31,6 @@
 [submodule "ICS 483 (Computer Vision) [Python]"]
 	path = ICS 483 (Computer Vision) [Python]
 	url = https://github.com/frendylio/ICS483
+[submodule "EE 602 (Algorithm I) [Java]"]
+	path = EE 602 (Algorithm I) [Java]
+	url = https://github.com/frendylio/EE602
