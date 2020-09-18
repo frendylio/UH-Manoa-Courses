@@ -34,3 +34,6 @@
 [submodule "EE 602 (Algorithm I) [Java]"]
 	path = EE 602 (Algorithm I) [Java]
 	url = https://github.com/frendylio/EE602
+[submodule "EE 160 (Programming for Engineers) [C]"]
+	path = EE 160 (Programming for Engineers) [C]
+	url = https://github.com/frendylio/EE160
