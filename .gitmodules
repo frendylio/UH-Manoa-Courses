@@ -37,3 +37,6 @@
 [submodule "EE 160 (Programming for Engineers) [C]"]
 	path = EE 160 (Programming for Engineers) [C]
 	url = https://github.com/frendylio/EE160
+[submodule "EE 416 (Introduction to Image Processing and Computer Vision) [Python]"]
+	path = EE 416 (Introduction to Image Processing and Computer Vision) [Python]
+	url = https://github.com/frendylio/EE416
