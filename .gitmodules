@@ -46,3 +46,6 @@
 [submodule "EE 616 (Computational Image Processing and Computer Vision [Python]"]
 	path = EE 616 (Computational Image Processing and Computer Vision [Python]
 	url = https://github.com/frendylio/EE616
+[submodule "EE 660 (Computer Architecture) [C]"]
+	path = EE 660 (Computer Architecture) [C]
+	url = https://github.com/frendylio/EE660
